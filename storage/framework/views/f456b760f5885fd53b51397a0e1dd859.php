@@ -85,4 +85,4 @@ h. Aktif dan sehat.',
    Illuminate\Database\QueryException  SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list' (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: marketplace_cupang, SQL: insert into `products` (`user_id`, `category_id`, `name`, `slug`, `description`, `price`, `stock`, `status`, `condition`, `updated_at`, `created_at`) values (1, 3, Cupang Crowntail Yellow, cupang-crowntail-yellow, Crowntail kuning dengan sirip bergerigi yang indah. Aktif dan sehat., 120000, 3, available, new, 2026-06-24 13:54:58, 2026-06-24 13:54:58)).
 
 >                                                                        
-> exit                                                                   
+> exit                                                                   <?php /**PATH C:\Users\ACER\marketplace-cupang\resources\views/products/index.blade.php ENDPATH**/ ?>
